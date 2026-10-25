@@ -1,0 +1,19 @@
+# Mnemonic list used for mnemonic validation
+MOV
+ADD
+SUB
+AND
+OR
+XOR
+CMP
+NOT
+MUL
+DIV
+INC
+DEC
+JMP
+JZ
+JNE
+CALL
+RET
+NOP
